@@ -1,0 +1,11 @@
+.jumbotron {
+    text-align: center;
+}
+
+.card-body {
+    padding: 100 px;
+}
+
+body {
+    background-color: gray;
+}
